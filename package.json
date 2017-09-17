@@ -1,0 +1,22 @@
+{
+  "name": "createjs-project-template",
+  "version": "1.0.0",
+  "description": "CreateJS Project Template",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monju760/COMP397-F2017-Project-Template.git"
+  },
+  "author": "Mohammad Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monju760/COMP397-F2017-Project-Template/issues"
+  },
+  "homepage": "https://github.com/monju760/COMP397-F2017-Project-Template#readme",
+  "devDependencies": {
+    "@types/easeljs": "^0.8.36"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "createjs-template",
+  "homepage": "https://github.com/monju760/COMP397-F2017-Project-Template",
+  "authors": [
+    "Mohammad Rahman <monju760@yahoo.com>"
+  ],
+  "description": "CreateJS Project Template",
+  "main": "",
+  "keywords": [
+    "CreateJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "^1.0.0",
+    "TweenJS": "^1.0.0",
+    "SoundJS": "^1.0.0",
+    "PreloadJS": "^1.0.0"
+  }
+}
